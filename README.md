@@ -16,5 +16,5 @@
 | Colab 12 | [Video Link](https://youtu.be/YaVFLnYFPHQ) |
 | Colab 13 | [Video Link](https://youtu.be/BbFQnSQu0dg) |
 | Colab 14 | [Video Link](https://youtu.be/mPzJQr45IUs) |
-| Colab 15 | [Video Link]() |
-| Colab 16 | [Video Link]() |
+| Colab 15 | [Video Link](https://youtu.be/Jit__SeGyj0) |
+| Colab 16 | [Video Link](https://youtu.be/IMz30AvWElM) |
